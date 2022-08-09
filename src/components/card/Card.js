@@ -21,9 +21,10 @@ export default function Card(props) {
         <div className='flex flex-col justify-center items-center'>
           <h2 className='my-4 text-3xl'>{props.title}</h2>
           <h3 className='text-xl mb-4 lg:text-2xl'>{props.grade}</h3>
+        </div>
+        <div className='text-center'>
           <p className='mx-2 my-4'>{props.description}</p>
         </div>
-        
         <div >
           <Button styled={BtnStyle} text='Baca Selengkapnya'/>
         </div>
@@ -35,8 +36,7 @@ export default function Card(props) {
     return (
       <>
         <div className='flex flex-row m-2'>
-          {/* <img src={props.img} alt='boyleft' className='w-[20%] hidden md:block'></img> */}
-          <div className='text-7xl flex items-center'>
+          <div className='text-7xl flex items-center hidden md:block'>
             <ion-icon name="rocket-outline"></ion-icon>
           </div>
             <div className='flex flex-col gap-2 ml-4 w-full '>

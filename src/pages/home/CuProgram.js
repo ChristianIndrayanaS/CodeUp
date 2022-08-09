@@ -5,35 +5,30 @@ import Card from '../../components/card/Card';
 export default function CuProgram() {
   const program = [
     {
-      name:'cardProgram',
+      nameCard:'cardProgram',
       allProgram:[
         {
           id:"1",
-          img:Bg5,
           title:"Basic Programing",
           description:"Memberikan pengalaman baru untuk mereka yang belum pernah belajar bahasa pemrograman sebelumnya. Memperkenalkan konsep dasar pemrograman menggunakan online platform."
         },
         {
           id:"2",
-          img:Bg5,
           title:"3D Modelling",
           description:"Melatih imajinasi dengan menciptkan objek 3D yang dituangkan dalam bentuk visual nyata, baik secara bentuk, tekstur, dan ukuran suatu objek."
         },
         {
           id:"3",
-          img:Bg5,
           title:"Virtual Reality",
           description:""
         },
         {
           id:"4",
-          img:Bg5,
           title:"Machine Learning",
           description:"Membuat suatu sistem yang dapat meniru cara manusia belajar yang berfokus pada penggunaan data yang diberikan dan digunakan oleh sistem untuk melakukan perintah yang diminta."
         },
         {
           id:"5",
-          img:Bg5,
           title:"Web Development",
           description:"Membuat dan mengembangkan situs website mulai dari yang sederhana sampai yang kompleks. "
         }
@@ -51,7 +46,7 @@ export default function CuProgram() {
               <>
                 {content.allProgram.map((program) =>(
                   <div className='border-2 border-black h-min backdrop-blur-xl'>
-                    <Card cards={content.name} img={program.img} title={program.title} description={program.description}/>
+                    <Card cards={content.nameCard} title={program.title} description={program.description}/>
                   </div>
                 ))}
               </>
