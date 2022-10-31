@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/CodeUp/static/css/main.028f20bb.css",
+    "main.js": "/CodeUp/static/js/main.89ef6c8c.js",
+    "static/media/newLogo.png": "/CodeUp/static/media/newLogo.236930219076ce7ac0a4.png",
+    "static/media/teenagerGrade.png": "/CodeUp/static/media/teenagerGrade.e28f945069a910aee919.png",
+    "static/media/ilustrasi1.png": "/CodeUp/static/media/ilustrasi1.15a316e09ea94d146cb9.png",
+    "static/media/kinderGrade.png": "/CodeUp/static/media/kinderGrade.f6ee1e17c98175299f0b.png",
+    "static/media/bg1.jpg": "/CodeUp/static/media/bg1.34ad155c703fd4cd99d1.jpg",
+    "static/media/logo.png": "/CodeUp/static/media/logo.b0a1702b15ad00a3f291.png",
+    "static/media/ilustrasi2.png": "/CodeUp/static/media/ilustrasi2.5871741728a41ada57f0.png",
+    "static/media/bg3.jpg": "/CodeUp/static/media/bg3.a2506d1a385aad3fe4d3.jpg",
+    "static/media/boy_right.jpg": "/CodeUp/static/media/boy_right.079dc9aac9182a131a3a.jpg",
+    "static/media/KioPhoto.png": "/CodeUp/static/media/KioPhoto.cbcd75a089f2eb744680.png",
+    "static/media/teenagerPhoto.png": "/CodeUp/static/media/teenagerPhoto.68f1bbd87c2d883eb12f.png",
+    "static/media/boy_left.jpg": "/CodeUp/static/media/boy_left.bc7538809fc5e3f8368b.jpg",
+    "static/media/kinderPhoto.png": "/CodeUp/static/media/kinderPhoto.112a8d91b249ef20ed0d.png",
+    "static/media/adultPhoto.png": "/CodeUp/static/media/adultPhoto.9cb04c0111f0a8de8804.png",
+    "static/media/bg2.png": "/CodeUp/static/media/bg2.64c8eac10721d92d8f3e.png",
+    "static/media/bg5.png": "/CodeUp/static/media/bg5.e9391e9f302207f58dc4.png",
+    "static/media/bg4.png": "/CodeUp/static/media/bg4.610ade3da385234f361f.png",
+    "static/media/bg9.png": "/CodeUp/static/media/bg9.9ffa00d05ae540bb7f8f.png",
+    "static/media/bg8.png": "/CodeUp/static/media/bg8.3a6adcfd6dacdf480ae3.png",
+    "static/media/bg10.png": "/CodeUp/static/media/bg10.ed379a4024dae544a28a.png",
+    "static/media/bg7.png": "/CodeUp/static/media/bg7.dc4d15d9bcb086625f6d.png",
+    "index.html": "/CodeUp/index.html",
+    "main.028f20bb.css.map": "/CodeUp/static/css/main.028f20bb.css.map",
+    "main.89ef6c8c.js.map": "/CodeUp/static/js/main.89ef6c8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.028f20bb.css",
+    "static/js/main.89ef6c8c.js"
+  ]
+}
